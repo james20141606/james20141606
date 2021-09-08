@@ -1,5 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=james20141606&show_icons=true)
-![](https://github-profile-trophy.vercel.app/?username=james20141606&theme=onedark&column=6)
+<!--![](https://github-profile-trophy.vercel.app/?username=james20141606&theme=onedark&column=6)-->
 
 ## About me...
 - 🔭 I’m currently doing research at New York University VideoLab
