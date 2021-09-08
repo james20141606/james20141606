@@ -9,13 +9,7 @@
 ## How to reach me
 [<img align="left" alt="holisitc_developer | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/xupeng-chen
+[linkedin]: https://www.linkedin.com/in/xupeng-chen-9b8024b7/
 
 <!--
 **james20141606/james20141606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
