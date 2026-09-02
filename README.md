@@ -2,9 +2,9 @@
 <!--![](https://github-profile-trophy.vercel.app/?username=james20141606&theme=onedark&column=6)-->
 
 ## About me...
-- 🔭 I’m currently doing research at New York University VideoLab
-- Interests: Audio, Image Processing. ADAS
-- ⚡ Reach Me: [https://www.cmwonderland.com/](https://xupengchen.notion.site/)
+- Xupeng Chen is CTO at Dimension Gate https://dimension-gate.com/en
+- We develop AI agents and AI4S applications!
+- ⚡ Reach Me: [https://xupengchen.notion.site/](https://xupengchen.notion.site/)
 
 ## How to reach me
 [<img align="left" alt="holisitc_developer | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
