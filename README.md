@@ -4,7 +4,7 @@
 ## About me...
 - 🔭 I’m currently doing research at New York University VideoLab
 - Interests: Audio, Image Processing. ADAS
-- ⚡ Reach Me: https://www.cmwonderland.com/
+- ⚡ Reach Me: [https://www.cmwonderland.com/](https://xupengchen.notion.site/)
 
 ## How to reach me
 [<img align="left" alt="holisitc_developer | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
